@@ -1,0 +1,61 @@
+@media(max-width: 1440px) {
+    .rodape{
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+}
+
+@media(max-width: 1280px){
+    body{
+        background-image: none;
+    }
+    
+    .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background-image: url(../images/bg-mobile.svg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+
+    .conteudo{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .telas img{
+        width: 50%;
+    }
+
+    .logo img{
+        width: 30%;
+    }
+
+    .registre-se{
+        margin: 25px;
+    }
+}
+
+
+@media(max-height: 800px){
+    .logo img{
+        width: 40%;
+    }
+
+    .telas img{
+        width: 50%;
+    }
+
+    .titulo{
+        font-size: 25px;
+    }
+
+    .descricao{
+        font-size: 19px;
+    }
+}
