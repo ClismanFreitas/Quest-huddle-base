@@ -1,6 +1,6 @@
 # Projeto modelo Frontend Mentor
 
-### Um projeto modelo de uma página para inscrição com uma seção única introdutória.
+### Landing Page.
 1 - Header com um logo.
 
 2 - Main com uma ilustração de como funciona o site.
