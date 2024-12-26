@@ -1,4 +1,4 @@
-# Formulário com Validação ✅
+# Landing Page✅
 
 Esse projeto é uma atividade proposta pelo curso que eu faço DevQuest, essa atividade serviu para colocar em prática tudo que foi ensinado durante o módulo de HTML/CSS Avançado
 
